@@ -1,0 +1,8 @@
+D:\ayudantia\proyectos-visualstudio\formprimos\formprimos\bin\Debug\formprimos.exe.config
+D:\ayudantia\proyectos-visualstudio\formprimos\formprimos\bin\Debug\formprimos.exe
+D:\ayudantia\proyectos-visualstudio\formprimos\formprimos\bin\Debug\formprimos.pdb
+D:\ayudantia\proyectos-visualstudio\formprimos\formprimos\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\ayudantia\proyectos-visualstudio\formprimos\formprimos\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\ayudantia\proyectos-visualstudio\formprimos\formprimos\obj\Debug\formprimos.csproj.GenerateResource.Cache
+D:\ayudantia\proyectos-visualstudio\formprimos\formprimos\obj\Debug\formprimos.exe
+D:\ayudantia\proyectos-visualstudio\formprimos\formprimos\obj\Debug\formprimos.pdb
